@@ -1,0 +1,5 @@
+Placed On,OrderId,OrderStatus,Price_Without_Tax,UP+TAX+SHIPPING,AmtPaid,Difference,Paid_CC,Paid_PayPal,GC_REWARDCARD Amt,paymentCount
+2020-07-18T10:48:48,51395257,Placed Successfully,24.99,33.91,33.91,0,1,0,0,1
+2020-07-18T10:59:09,51395264,Placed Successfully,60.96,72.74,72.74,0,0,1,0,1
+2020-08-28T01:14:55,51676484,Placed Successfully,140.0,140.0,140,0,0,0,140,1
+2020-08-26T08:07:55,10491791,Placed Successfully,29.99,40.88,60.88,20.0,1,0,0,1
